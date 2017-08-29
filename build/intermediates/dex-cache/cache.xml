@@ -3,75 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_deb33872986cab675de88ffba24b56929a039807.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_995a261c167b8eb9126b65171516028caba0fe3b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="2c7a1f58c2d899bc4f6f615d80f7e9b7da0c3b0f">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\instant-run_eb038eb42a65c17e5714ab877343bdbfbdc8b316.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
+        jar="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_2b438f502a4ac13cddada0ad4765e4d8f70fe36b.jar" />
+        <dex dex="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_f8eff34f3136491e266468532c6bc5c847d9ca4a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\android_soft\android-sdk-windows_r24.4.1\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
+        jar="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_9b94e2cad03c2aafb58d5c34fd62aedfbbb9ba67.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_5308a49f5973d7542b6f006b30715679bf8a7265.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="568ba49e9c43a388d39667f60196aa53b9538660">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b58e9c17fbecd73654ab5f71dcdaa6186ab86e2e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0bb6b6f80ccddac14f78103d4ceaf898e1339723.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
+        jar="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.0"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_f97a8ad2dd312ff862c60c26ae94464119144ccb.jar" />
+        <dex dex="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_b8e2d53565b0418120f5cd347f4f5068b96b571f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sqhan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_fbb5b93b9084ecb0336e25c41e0fa534dba9ae8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_ed9df9ddd2bf31d35ae4d53760015e9ac719119a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/sqhan/Documents/workspace/MVPDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_93f919eea18c610c49c36e0107da4fa4bdc214cf.jar" />
     </item>
 
 </items>
